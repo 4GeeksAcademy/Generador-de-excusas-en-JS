@@ -13,4 +13,4 @@ let rdm3 = Math.floor(Math.random() * what.length);
 let rdm4 = Math.floor(Math.random() * when.length);
 }
 
-document.querySelector("#excuse").innerHTML = first + who[rdm1] + action[rdm2] + what[rdm3] + when[rdm4]huesuhdUHYDW<EHYDESG CS;
+document.querySelector("#excuse").innerHTML = first + who[rdm1] + action[rdm2] + what[rdm3] + when[rdm4];
